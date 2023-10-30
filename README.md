@@ -3,10 +3,13 @@
 ## Description
 
 In this repo, I have used AG_NEWS dataset which has the following four labels:
+
+```
 1 : World
 2 : Sports
 3 : Business
 4 : Sci/Tec
+```
 
 The provided code defines a Python class named TextClassificationModel for a text classification task. It uses word embeddings to represent text data and a neural network for classification.
 
