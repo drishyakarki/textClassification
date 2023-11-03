@@ -2,7 +2,7 @@
 
 ## Description
 
-In this repo, I have used **AG_NEWS dataset** which has the following four labels:
+In this repo, I have used **AG_NEWS** dataset which has the following four labels:
 
 ```
 1 : World
